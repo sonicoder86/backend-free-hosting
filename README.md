@@ -15,4 +15,6 @@ https://fly.io
 
 - `brew install flyctl`
 - `fly auth login`
-- ``
+- `fly launch`
+- `fly deploy`
+- https://backend-free-hosting.fly.dev/
