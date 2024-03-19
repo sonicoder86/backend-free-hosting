@@ -8,3 +8,11 @@ https://render.com/
 
 - Install Githubb App, authorize
 - https://backend-free-hosting.onrender.com/
+
+## Fly
+
+https://fly.io
+
+- `brew install flyctl`
+- `fly auth login`
+- ``
