@@ -7,5 +7,4 @@ Showcasing free hosting for frontend applications (static hosting).
 https://render.com/
 
 - Install Githubb App, authorize
-
-[//]: # (- https://sonicoder86.github.io/frontend-free-hosting/)
+- https://backend-free-hosting.onrender.com/
