@@ -1,5 +1,5 @@
-import { Hono } from 'hono'
-import { serve } from '@hono/node-server'
+import { Hono } from 'npm:hono'
+import { serve } from 'npm:@hono/node-server'
 const app = new Hono()
 
 app.get('/', (c) => c.text('Hello World!'))
