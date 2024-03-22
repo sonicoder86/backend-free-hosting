@@ -18,3 +18,10 @@ https://fly.io
 - `fly launch`
 - `fly deploy`
 - https://backend-free-hosting.fly.dev/
+
+## Adaptable
+
+https://adaptable.io/
+
+- Connect Github App
+- https://backend-free-hosting.adaptable.app/
